@@ -1,0 +1,3 @@
+[submodule "Cadmium-ABP"]
+	path = ABP
+	url = https://github.com/SimulationEverywhere/Cadmium-ABP
