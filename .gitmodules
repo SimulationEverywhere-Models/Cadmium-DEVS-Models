@@ -1,3 +1,3 @@
-[submodule "Cadmium-ABP"]
+[submodule "ABP"]
 	path = ABP
-	url = https://github.com/SimulationEverywhere/Cadmium-ABP
+	url = https://github.com/SimulationEverywhere/Cadmium-ABP.git
