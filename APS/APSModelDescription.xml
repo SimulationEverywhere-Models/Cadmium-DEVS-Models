@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Models>
+	<Model name="asset_price_simulator" type="coupled" description="takes as input a data time series (date and price)from a financial asset and returns a prediction for the next day">
+		<Inputs>
+			<Port name="time_series_arrival" type="date and price" description="past prices arrival"/>
+		</Inputs>
+		<Outputs>
+			<Port name="prediction_made" type="date and price" description="prediction for the next day"/>
+		</Outputs>
+		<Files>
+		</Files>
+	</Model>
+	<Model name="bootstrap_generator" type="coupled" description="takes daily returns and generates a prediction">
+		<Inputs>
+			<Port name="daily_returns_arrival" type="date and price" description="past returns arrival"/>
+		</Inputs>
+		<Outputs>
+			<Port name="prediction_made" type="date and price" description="prediction for the next day"/>
+		</Outputs>
+		<Files>
+		</Files>
+	</Model>
+	<Model name="daily_return_generator" type="atomic" description="generates daily returns from prices">
+		<Inputs>
+			<Port name="past prices arrival" type="date and price" description="past prices arrival"/>
+		</Inputs>
+		<Outputs>
+			<Port name="daily_returns_out" type="time_series_element" description="daily returns for the input series"/>
+		</Outputs>
+		<Files>
+		</Files>
+	</Model>
+	<Model name="random_selector" type="atomic" description="selects a random value from a time series">
+		<Inputs>
+			<Port name="elements_to_choose" type="date and price" description="select one"/>
+		</Inputs>
+		<Outputs>
+			<Port name="random_selector_out" type="date and price" description="element selected"/>
+		</Outputs>
+		<Files>
+		</Files>
+	</Model>
+	<Model name="prediction_generator" type="coupled" description="generates a prediction for the financial asset">
+		<Inputs>
+			<Port name="" type="date and price" description="elements for prediction"/>
+		</Inputs>
+		<Outputs>
+			<Port name="prediction_out" type="date and time" description="prediction made"/>
+		</Outputs>
+		<Files>
+		</Files>
+	</Model>
+</Models>

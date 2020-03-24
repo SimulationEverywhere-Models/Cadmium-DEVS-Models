@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Models>
+	<Model name="SecureAreaAccess" type="coupled" description="a coupled system for secure area access system.">
+		<Inputs>
+			<Port name="command" type="int, int" description="Arm or disarm the system"/>
+		</Inputs>
+		<Outputs>
+			<Port name="display" type="int, int" description="Displays whats should be displayed on the alarm system right now"/>
+		</Outputs>
+	</Model>
+</Models>
