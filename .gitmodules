@@ -1,6 +1,6 @@
-[submodule "ABP"]
-	path = ABP
-	url = https://github.com/SimulationEverywhere-Models/Cadmium-ABP.git
+[submodule "AlternatingBitProtocol"]
+	path = AlternatingBitProtocol
+	url = https://github.com/SimulationEverywhere-Models/Cadmium-AlternatingBitProtocol.git
 [submodule "Stock_Prediction"]
 	path = Stock_Prediction
 	url = https://github.com/SimulationEverywhere-Models/Cadmium-Stock_Prediction_Simulation.git
