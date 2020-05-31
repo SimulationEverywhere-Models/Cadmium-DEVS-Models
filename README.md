@@ -5,7 +5,7 @@ This is a parent repository containing a reference to Cadmium-DEVS models develo
 To *download all models* clone this repository and then run: 
 > git submodule update --init --recursive
 
-To *download an individual model* (ex, ABP) clone this repository and then run:
+To *download an individual model* (e.g. AlternatingBitProtocol) clone this repository and then run:
 > git submodule update --init --remote --recursive -- AlternatingBitProtocol/
 
 If it is your first time running a Cadmium model you need to setup your environment.
