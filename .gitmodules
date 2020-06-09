@@ -31,3 +31,15 @@
 [submodule "House_Heating_System"]
 	path = House_Heating_System
 	url = https://github.com/SimulationEverywhere-Models/Cadmium-House_Heating_System.git
+[submodule "Offline_File_Transfer"]
+	path = Offline_File_Transfer
+	url = https://github.com/SimulationEverywhere-Models/Cadmium-Offline_File_Transfer.git
+[submodule "Secure_Area_Access"]
+	path = Secure_Area_Access
+	url = https://github.com/SimulationEverywhere-Models/Cadmium-Secure_Area_Access.git
+[submodule "Start_Airlift"]
+	path = Start_Airlift
+	url = https://github.com/SimulationEverywhere-Models/Cadmium-Start_Airlift.git
+[submodule "SEIRD"]
+	path = SEIRD
+	url = https://github.com/SimulationEverywhere-Models/Cadmium-SEIRD.git
