@@ -1,3 +1,6 @@
 [submodule "ABP"]
 	path = ABP
 	url = https://github.com/SimulationEverywhere/Cadmium-ABP.git
+[submodule "Barbershop"]
+	path = Barbershop
+	url = https://github.com/SimulationEverywhere-Models/Cadmium-Barbershop.git
