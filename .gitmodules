@@ -4,3 +4,6 @@
 [submodule "Stock_Prediction"]
 	path = Stock_Prediction
 	url = https://github.com/SimulationEverywhere-Models/Cadmium-Stock_Prediction_Simulation.git
+[submodule "Cadmium-SEIR-Asyn"]
+	path = Cadmium-SEIR-Asyn
+	url = https://github.com/SimulationEverywhere-Models/Cadmium-SEIR-Asyn
