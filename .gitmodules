@@ -4,9 +4,6 @@
 [submodule "Barbershop"]
 	path = Barbershop
 	url = https://github.com/SimulationEverywhere-Models/Cadmium-Barbershop.git
-[submodule "Stock_Prediction_Simulation"]
-	path = Stock_Prediction_Simulation
-	url = https://github.com/SimulationEverywhere-Models/Cadmium-Stock_Prediction_Simulation.git
 [submodule "O-Train"]
 	path = O-Train
 	url = https://github.com/SimulationEverywhere-Models/Cadmium-otrain.git
