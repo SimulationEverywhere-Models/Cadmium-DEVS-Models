@@ -1,9 +1,48 @@
 [submodule "AlternatingBitProtocol"]
 	path = AlternatingBitProtocol
 	url = https://github.com/SimulationEverywhere-Models/Cadmium-AlternatingBitProtocol.git
-[submodule "Stock_Prediction"]
-	path = Stock_Prediction
+[submodule "Barbershop"]
+	path = Barbershop
+	url = https://github.com/SimulationEverywhere-Models/Cadmium-Barbershop.git
+[submodule "Stock_Prediction_Simulation"]
+	path = Stock_Prediction_Simulation
 	url = https://github.com/SimulationEverywhere-Models/Cadmium-Stock_Prediction_Simulation.git
+[submodule "O-Train"]
+	path = O-Train
+	url = https://github.com/SimulationEverywhere-Models/Cadmium-otrain.git
+[submodule "Online_Banking_System"]
+	path = Online_Banking_System
+	url = https://github.com/SimulationEverywhere-Models/Cadmium-Online_Banking_System.git
+[submodule "Assignment_Submission_Checker"]
+	path = Assignment_Submission_Checker
+	url = https://github.com/SimulationEverywhere-Models/Cadmium-Assigment_Submission_Checker.git
+[submodule "Asset_Price_Simulator"]
+	path = Asset_Price_Simulator
+	url = https://github.com/SimulationEverywhere-Models/Cadmium-Asset_Price_Simulator.git
+[submodule "Academic_Registration_System"]
+	path = Academic_Registration_System
+	url = https://github.com/SimulationEverywhere-Models/Cadmium-Student_Academic_Registration_System.git
+[submodule "Store_Cashier"]
+	path = Store_Cashier
+	url = https://github.com/SimulationEverywhere-Models/Cadmium-Store_Cashier.git
+[submodule "Alternating_Bit_Protocol"]
+	path = Alternating_Bit_Protocol
+	url = https://github.com/SimulationEverywhere-Models/Cadmium-AlternatingBitProtocol.git
+[submodule "House_Heating_System"]
+	path = House_Heating_System
+	url = https://github.com/SimulationEverywhere-Models/Cadmium-House_Heating_System.git
+[submodule "Offline_File_Transfer"]
+	path = Offline_File_Transfer
+	url = https://github.com/SimulationEverywhere-Models/Cadmium-Offline_File_Transfer.git
+[submodule "Secure_Area_Access"]
+	path = Secure_Area_Access
+	url = https://github.com/SimulationEverywhere-Models/Cadmium-Secure_Area_Access.git
+[submodule "Start_Airlift"]
+	path = Start_Airlift
+	url = https://github.com/SimulationEverywhere-Models/Cadmium-Start_Airlift.git
+[submodule "SEIRD"]
+	path = SEIRD
+	url = https://github.com/SimulationEverywhere-Models/Cadmium-SEIRD.git
 [submodule "Cadmium-SEIR-Asyn"]
 	path = Cadmium-SEIR-Asyn
 	url = https://github.com/SimulationEverywhere-Models/Cadmium-SEIR-Asyn
