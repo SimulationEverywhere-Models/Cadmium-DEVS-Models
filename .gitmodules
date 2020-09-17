@@ -1,6 +1,6 @@
-[submodule "ABP"]
-	path = ABP
-	url = https://github.com/SimulationEverywhere/Cadmium-ABP.git
+[submodule "AlternatingBitProtocol"]
+	path = AlternatingBitProtocol
+	url = https://github.com/SimulationEverywhere-Models/Cadmium-AlternatingBitProtocol.git
 [submodule "Barbershop"]
 	path = Barbershop
 	url = https://github.com/SimulationEverywhere-Models/Cadmium-Barbershop.git
@@ -43,3 +43,6 @@
 [submodule "SEIRD"]
 	path = SEIRD
 	url = https://github.com/SimulationEverywhere-Models/Cadmium-SEIRD.git
+[submodule "Cadmium-SEIR-Asyn"]
+	path = Cadmium-SEIR-Asyn
+	url = https://github.com/SimulationEverywhere-Models/Cadmium-SEIR-Asyn
