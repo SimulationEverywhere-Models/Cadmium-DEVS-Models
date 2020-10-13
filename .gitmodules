@@ -1,6 +1,3 @@
-[submodule "AlternatingBitProtocol"]
-	path = AlternatingBitProtocol
-	url = https://github.com/SimulationEverywhere-Models/Cadmium-AlternatingBitProtocol.git
 [submodule "Barbershop"]
 	path = Barbershop
 	url = https://github.com/SimulationEverywhere-Models/Cadmium-Barbershop.git
